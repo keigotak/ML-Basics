@@ -56,7 +56,7 @@ AI、即ち人工知能はWikipediaによると次のように定義されてい
 機械学習分野で良く知られたタスクの一つにタイタニック号の生存者予測というものがある。これは乗客の様々なプロパティ情報を元に、その乗客が生存したか、そうでなかったかを予測するバイナリークラシフィケーションタスクである。とにかくやってみるのがここでのやりたいことなので、手法に関する細かい説明は割愛するが、以下のファイルで実行してみましょう。
 
 
-[colab](https://colab.research.google.com/github/romth777/ML-Basics/blob/master/src/titanic_survivals.ipynb#scrollTo=FpZQUF0mOxV0)
+[colab](https://colab.research.google.com/github/romth777/ML-Basics/blob/master/src/titanic_survivals.ipynb)
 [ソースはこちら](./src/titanic_survivals.ipynb)
 
 
