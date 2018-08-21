@@ -63,13 +63,13 @@ AI、即ち人工知能は[Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5
 # 学習
 ## 機械学習モデル作成の全体像
 基本的に以下のフローをベースにモデルの学習を行う
-①前処理（データのクレンジング、欠損値の取り扱い、外れ値の取り扱い）
-②特徴量抽出
-③Train用、Validation用、Test用に分割
-④モデルにTrain用データを与えて学習
-⑤Validation用データでモデルの妥当性を検証
-⑥④、⑤を繰り返し、Train Loss / Validation Loss等の値から、良いところで学習をやめる
-⑦Test用データで評価
+1. 前処理（データのクレンジング、欠損値の取り扱い、外れ値の取り扱い）
+2. 特徴量抽出
+3. Train用、Validation用、Test用に分割
+4. モデルにTrain用データを与えて学習
+5. Validation用データでモデルの妥当性を検証
+6. 4、5を繰り返し、Train Loss / Validation Loss等の値から、良いところで学習をやめる
+7. Test用データで評価
 
 ## TrainとValidation
 Train：モデルの持つ表現力が最大になるようにモデルのパラメータを調整する  
