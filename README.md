@@ -98,5 +98,11 @@ Test：モデルを学習する際に使ったハイパーパラメータが本�
  * 交差クロスエントロピー
 主にクラス分類タスクで用いられる。
 
+ * Fち
+ http://ibisforest.org/index.php?F値
+ 
+
+
+
 ## 参考資料
 https://qiita.com/QUANON/items/ae569961ea02b4468e23
